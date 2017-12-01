@@ -19,7 +19,7 @@ data-to-encrypt
 - data-to-encrypt
 
 
-Pair of {<context key>, <context value>} 
+Pair of 'context key' and 'context value' 
 - This program expects at least one key-value pair to be used for encrpytion context.
 - You can add more than one key-value pairs
 
